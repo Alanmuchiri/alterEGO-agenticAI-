@@ -131,7 +131,7 @@ Gradio will launch a local interface at `http://127.0.0.1:7860`.
 
 **Alan Muchiri** — Data & AI Engineer | Nairobi, Kenya
 
-🌐 [alanmuchiri.com](https://alanmuchiri.com) · 💼 [LinkedIn](https://linkedin.com/in/alanmuchiri) · 🤗 [HuggingFace](https://huggingface.co/alanmuchiri)
+🌐 [alanmuchiri.com](https://alanmuchiri.com) · 💼 [LinkedIn](https://www.linkedin.com/in/alan-muchiri-5534631a4?utm_source=share_via&utm_content=profile&utm_medium=member_android) · 🤗 [HuggingFace](https://huggingface.co/muchiri-254)
 
 ---
 
